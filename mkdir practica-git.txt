@@ -1,0 +1,2 @@
+mkdir practica-git
+cd practica-git
