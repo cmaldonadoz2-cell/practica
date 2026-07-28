@@ -1,2 +1,4 @@
 mkdir practica-git
 cd practica-git
+
+descripcion ; este archivo fue creado para poner en practica 
